@@ -8,6 +8,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkShop.WebApp.Tests", "WorkShop.WebApp.Tests\WorkShop.WebApp.Tests.csproj", "{E0761AF5-73C9-4994-9EE5-F7CAB85F8A2B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{1C4AFFFE-3F17-41C0-AD76-CCC8F88AE48C}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionFiles\Apresentacao.pptx = SolutionFiles\Apresentacao.pptx
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{0BB64B31-071E-4DEC-A0D1-437E978B1B78}"
 	ProjectSection(SolutionItems) = preProject
